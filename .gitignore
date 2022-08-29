@@ -30,3 +30,4 @@ node_modules
 .env
 
 docs/_book/
+package-lock.json
